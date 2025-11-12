@@ -42,15 +42,15 @@ NVIDIA
 AMD
 
 谷歌
-google
-gemini
-deepmind
+Google
+Gemini
+Deepmind
 
-chatgpt
-openai
-sora
+ChatGpt
+openAI
+Sora
 
-claude
+Claude
 Anthropic
 
 iPhone
@@ -74,6 +74,10 @@ Robotaxii
 美国
 欧盟
 日本
+
+台湾
+赖清德
+统一
 
 俄罗斯
 乌克兰
