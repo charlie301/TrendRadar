@@ -13,6 +13,28 @@ Ascend
 大疆
 DJI
 
+阿里
+阿里云
+淘宝
+通义
+
+腾讯
+元宝
+
+Meta
+Facebook
+脸书
+
+甲骨文
+Oracle
+Palantir
+
+亚马逊
+Amazon
+
+思科
+Cisco
+
 宇树
 王兴兴
 
@@ -26,6 +48,8 @@ DJI
 
 字节
 bytedance
+抖音
+TikTok
 张一鸣
 
 特斯拉
@@ -34,12 +58,11 @@ Robotaxii
 
 微软
 Microsoft
+Windows
 
 英伟达
 NVIDIA
 黄仁勋
-
-AMD
 
 谷歌
 Google
@@ -58,10 +81,17 @@ iPad
 Mac
 iOS
 
-ai
+AI
 !gai
 人工智能
 空间智能
+大模型
+深度学习
+
+突发
+break
+突破
+冲突
 
 自动驾驶
 Robotaxii
@@ -70,11 +100,30 @@ Robotaxii
 机器人
 具身智能
 
-算力
+中国
+国产化
+内需
+双循环
+习近平
+
+军事
+航母
+五代机
+六代机
+
+南美
+拉美
+巴西
+委内瑞拉
+墨西哥
 
 美国
 欧盟
+德国
+法国
+英国
 日本
+加拿大
 Trump
 特朗普
 川普
@@ -103,6 +152,11 @@ Trump
 光刻机
 
 A股
+沪市
+深市
+上证
+深证
+创业板
 基金
 
 央行
